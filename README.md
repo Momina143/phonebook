@@ -1,2 +1,0 @@
-# phonebook
-Terraform Project 
